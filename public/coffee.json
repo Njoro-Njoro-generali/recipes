@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Espresso",
+    "ingredients": ["2 oz espresso"],
+    "recipe": "Brew 2 oz of espresso using an espresso machine.",
+    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg"
+  },
+  {
+    "name": "Americano",
+    "ingredients": ["2 oz espresso", "6 oz hot water"],
+    "recipe": "Brew 2 oz of espresso and add 6 oz of hot water.",
+    "image": "https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"
+  },
+  {
+    "name": "Latte",
+    "ingredients": ["1 shot espresso", "8 oz steamed milk", "1 cm foamed milk"],
+    "recipe": "Brew 1 shot of espresso. Add 8 oz of steamed milk and top with 1 cm of foamed milk.",
+    "image": "https://images.pexels.com/photos/3879495/pexels-photo-3879495.jpeg"
+  },
+  {
+    "name": "Cappuccino",
+    "ingredients": ["1 shot espresso", "4 oz steamed milk", "4 oz foamed milk"],
+    "recipe": "Brew 1 shot of espresso. Add 4 oz of steamed milk and top with 4 oz of foamed milk.",
+    "image": "https://images.pexels.com/photos/2396220/pexels-photo-2396220.jpeg"
+  },
+  {
+    "name": "Macchiato",
+    "ingredients": ["1 shot espresso", "1-2 tsp foamed milk"],
+    "recipe": "Brew 1 shot of espresso. Add 1-2 teaspoons of foamed milk on top.",
+    "image": "https://images.pexels.com/photos/18039227/pexels-photo-18039227/free-photo-of-coffee-on-cafe-table.jpeg"
+  },
+  {
+    "name": "Mocha",
+    "ingredients": [
+      "1 shot espresso",
+      "1 oz chocolate syrup",
+      "8 oz steamed milk",
+      "Whipped cream"
+    ],
+    "recipe": "Brew 1 shot of espresso. Add 1 oz of chocolate syrup, 8 oz of steamed milk, and top with whipped cream.",
+    "image": "https://images.pexels.com/photos/350478/pexels-photo-350478.jpeg"
+  },
+  {
+    "name": "Flat White",
+    "ingredients": ["1 shot espresso", "6 oz steamed milk"],
+    "recipe": "Brew 1 shot of espresso. Add 6 oz of steamed milk with a thin layer of microfoam.",
+    "image": "https://images.pexels.com/photos/434213/pexels-photo-434213.jpeg"
+  },
+  {
+    "name": "Affogato",
+    "ingredients": ["1 shot espresso", "1 scoop vanilla ice cream"],
+    "recipe": "Brew 1 shot of espresso and pour it over 1 scoop of vanilla ice cream.",
+    "image": "https://images.pexels.com/photos/9442600/pexels-photo-9442600.jpeg"
+  },
+  {
+    "name": "Irish Coffee",
+    "ingredients": [
+      "1 shot espresso",
+      "1 tbsp brown sugar",
+      "1 oz Irish whiskey",
+      "Heavy cream"
+    ],
+    "recipe": "Brew 1 shot of espresso. Add 1 tbsp of brown sugar and 1 oz of Irish whiskey. Top with lightly whipped heavy cream.",
+    "image": "https://images.pexels.com/photos/3880909/pexels-photo-3880909.jpeg"
+  },
+  {
+    "name": "Cortado",
+    "ingredients": ["1 shot espresso", "1 shot steamed milk"],
+    "recipe": "Brew 1 shot of espresso and add 1 shot of steamed milk.",
+    "image": "https://images.pexels.com/photos/302901/pexels-photo-302901.jpeg"
+  },
+  {
+    "name": "Ristretto",
+    "ingredients": ["1 oz espresso"],
+    "recipe": "Brew 1 oz of espresso using a fine grind and less water.",
+    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg"
+  },
+  {
+    "name": "Lungo",
+    "ingredients": ["2 oz espresso"],
+    "recipe": "Brew 2 oz of espresso using a coarser grind and more water.",
+    "image": "https://images.pexels.com/photos/302903/pexels-photo-302903.jpeg"
+  },
+  {
+    "name": "Doppio",
+    "ingredients": ["2 shots espresso"],
+    "recipe": "Brew 2 shots of espresso.",
+    "image": "https://images.pexels.com/photos/302904/pexels-photo-302904.jpeg"
+  },
+  {
+    "name": "Red Eye",
+    "ingredients": ["1 shot espresso", "6 oz drip coffee"],
+    "recipe": "Brew 1 shot of espresso and add it to 6 oz of drip coffee.",
+    "image": "https://images.pexels.com/photos/302905/pexels-photo-302905.jpeg"
+  },
+  {
+    "name": "Black Coffee",
+    "ingredients": ["8 oz hot water", "2 tbsp ground coffee"],
+    "recipe": "Brew 2 tbsp of ground coffee with 8 oz of hot water.",
+    "image": "https://images.pexels.com/photos/1749303/pexels-photo-1749303.jpeg"
+  }
+]

@@ -1,0 +1,151 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header {
+  background-image: url(images/allfood.jpg);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  height: 5em;
+  padding: 0.2em;
+  gap: 1em;
+  position: sticky;
+  z-index: 99;
+
+  border-radius: 0 0 10px 10px;
+  box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, 0.37);
+  position: relative;
+
+  .creator {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+
+    img {
+      height: 100%;
+      border-radius: 50%;
+      transition: all 300ms ease-in-out;
+    }
+    img:hover {
+      scale: 1.3;
+    }
+
+    h1 {
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+      font-weight: 900;
+      color: white;
+      letter-spacing: 2px;
+      font-size: 3em;
+      text-shadow: 2px 3px black;
+    }
+  }
+
+  .menu {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    .link {
+      cursor: pointer;
+      transition: all 200ms ease-in-out;
+
+      p {
+        font-weight: 700;
+        font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+          sans-serif;
+        color: black;
+        font-size: 1.2em;
+        letter-spacing: 1px;
+        background-color: rgb(255, 255, 255);
+        padding: 5px;
+        border-radius: 5px;
+      }
+    }
+  }
+
+  .drop-menu,
+  .drop-hide,
+  .call-drop {
+    display: none;
+  }
+}
+.link:hover {
+  transform: translateY(10px);
+}
+
+@media (max-width: 890px) {
+  .header {
+    .creator {
+      width: 80%;
+    }
+    .menu {
+      display: none;
+    }
+    .drop-menu {
+      width: 30%;
+      height: 20em;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      position: absolute;
+      right: 1em;
+      top: 4.5em;
+      z-index: 99;
+      background-color: darkslategrey;
+      border-radius: 10px;
+      animation: intro 300ms ease-in-out;
+
+      .link {
+        cursor: pointer;
+        transition: all 200ms ease-in-out;
+
+        p {
+          width: 8em;
+          font-weight: 700;
+          font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+            sans-serif;
+          color: black;
+          font-size: 1.2em;
+          letter-spacing: 1px;
+          background-color: rgb(255, 255, 255);
+          padding: 5px;
+          border-radius: 5px;
+        }
+      }
+    }
+    .call-drop {
+      display: grid;
+      color: white;
+      position: absolute;
+      right: 1em;
+      top: 1em;
+      cursor: pointer;
+      font-size: 30px;
+      background-color: black;
+      padding: 3px;
+      border-radius: 5px;
+    }
+  }
+}
+
+@keyframes intro {
+  0% {
+    transform: translateX(250px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}

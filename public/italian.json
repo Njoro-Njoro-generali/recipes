@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Spaghetti Carbonara",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g pecorino cheese",
+      "50g parmesan cheese",
+      "2 cloves of garlic",
+      "Salt",
+      "Black pepper"
+    ],
+    "recipe": "Cook the spaghetti in a large pot of salted boiling water. Fry the pancetta with the garlic until crispy. Beat the eggs in a bowl, then add the grated pecorino and parmesan cheese. Drain the spaghetti and add it to the pan with the pancetta, remove from heat. Quickly pour in the egg and cheese mixture, stirring quickly to coat the pasta. Season with salt and black pepper to taste.",
+    "image": "https://th.bing.com/th/id/OIP.NRX64ri8gif0nftW555GVwHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Margherita Pizza",
+    "ingredients": [
+      "1 pizza dough",
+      "200g tomato sauce",
+      "200g mozzarella cheese",
+      "Fresh basil leaves",
+      "2 tbsp olive oil",
+      "Salt"
+    ],
+    "recipe": "Preheat the oven to 220°C (430°F). Roll out the pizza dough on a floured surface. Spread the tomato sauce evenly over the dough. Tear the mozzarella cheese and scatter it over the pizza. Drizzle with olive oil and season with a pinch of salt. Bake in the oven for 10-15 minutes until the crust is golden and the cheese is bubbly. Top with fresh basil leaves before serving.",
+    "image": "https://images.pexels.com/photos/18431672/pexels-photo-18431672/free-photo-of-pizza-margherita-cut-in-four.jpeg"
+  },
+  {
+    "name": "Tiramisu",
+    "ingredients": [
+      "300g ladyfingers",
+      "500g mascarpone cheese",
+      "4 large eggs",
+      "100g sugar",
+      "300ml strong coffee",
+      "2 tbsp cocoa powder",
+      "1 shot of Marsala wine (optional)"
+    ],
+    "recipe": "Brew the coffee and let it cool. Separate the egg yolks and whites. Beat the egg yolks with the sugar until pale and thick. Add the mascarpone cheese to the egg yolk mixture and mix until smooth. Whisk the egg whites until stiff peaks form, then fold them into the mascarpone mixture. Dip the ladyfingers in the coffee (and Marsala wine if using) and layer them in a dish. Spread half of the mascarpone mixture over the ladyfingers. Add another layer of coffee-dipped ladyfingers and top with the remaining mascarpone mixture. Dust the top with cocoa powder. Refrigerate for at least 4 hours before serving.",
+    "image": "https://images.pexels.com/photos/4078174/pexels-photo-4078174.jpeg"
+  },
+  {
+    "name": "Lasagna",
+    "ingredients": [
+      "12 lasagna noodles",
+      "500g ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "800g tomato sauce",
+      "500g ricotta cheese",
+      "2 large eggs",
+      "300g mozzarella cheese, shredded",
+      "100g parmesan cheese, grated",
+      "Salt",
+      "Black pepper",
+      "1 tsp dried oregano",
+      "1 tsp dried basil"
+    ],
+    "recipe": "Preheat the oven to 190°C (375°F). Cook the lasagna noodles according to package instructions. In a large skillet, cook the ground beef, onion, and garlic until the beef is browned. Add the tomato sauce, oregano, and basil, and simmer for 10 minutes. In a bowl, mix the ricotta cheese with the eggs, salt, and black pepper. In a baking dish, spread a layer of the meat sauce, then a layer of noodles, then a layer of the ricotta mixture. Repeat the layers, ending with a layer of meat sauce. Top with mozzarella and parmesan cheese. Cover with aluminum foil and bake for 25 minutes, then remove the foil and bake for another 25 minutes until the cheese is golden and bubbly.",
+    "image": "https://images.pexels.com/photos/20426624/pexels-photo-20426624/free-photo-of-closeup-of-lasagna-with-fries-rice-and-salad-on-side.jpeg"
+  },
+  {
+    "name": "Risotto alla Milanese",
+    "ingredients": [
+      "300g Arborio rice",
+      "1 small onion, finely chopped",
+      "100g butter",
+      "1 liter chicken broth",
+      "200ml dry white wine",
+      "0.5g saffron threads",
+      "100g parmesan cheese, grated",
+      "Salt",
+      "Black pepper"
+    ],
+    "recipe": "Heat the chicken broth and keep it warm. Dissolve the saffron threads in a small amount of warm broth. In a large pan, melt half of the butter and cook the onion until soft. Add the rice and toast it for a few minutes until translucent. Pour in the white wine and cook until it evaporates. Gradually add the warm broth, one ladle at a time, stirring constantly until the liquid is absorbed before adding more. When the rice is almost cooked, add the saffron-infused broth. Remove from heat, stir in the remaining butter and parmesan cheese, and season with salt and black pepper.",
+    "image": "https://th.bing.com/th/id/R.026696e9085c59832ca14f53ac050567?rik=2oJ4oIctQWF43g&riu=http%3a%2f%2fwww.contentedtraveller.com%2fwp-content%2fuploads%2f2014%2f06%2fRisotto-Milanese.jpg&ehk=upDB14zZ8y49sgfwjRJFrfQGn5exJIs0TtCqUBs57aA%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "name": "Fettuccine Alfredo",
+    "ingredients": [
+      "400g fettuccine",
+      "200g butter",
+      "300ml heavy cream",
+      "200g parmesan cheese, grated",
+      "2 cloves garlic, minced",
+      "Salt",
+      "Black pepper",
+      "Fresh parsley, chopped"
+    ],
+    "recipe": "Cook the fettuccine in a large pot of salted boiling water. In a pan, melt the butter and cook the garlic until fragrant. Add the heavy cream and simmer for 5 minutes. Stir in the parmesan cheese and cook until the sauce thickens. Drain the fettuccine and add it to the pan, tossing to coat the pasta with the sauce. Season with salt and black pepper. Serve with a sprinkle of fresh parsley.",
+    "image": "https://images.pexels.com/photos/5710170/pexels-photo-5710170.jpeg"
+  },
+  {
+    "name": "Osso Buco",
+    "ingredients": [
+      "4 veal shanks",
+      "1 onion, chopped",
+      "2 carrots, chopped",
+      "2 celery stalks, chopped",
+      "2 cloves garlic, minced",
+      "400g canned tomatoes",
+      "200ml white wine",
+      "500ml beef broth",
+      "2 tbsp olive oil",
+      "1 tbsp flour",
+      "Salt",
+      "Black pepper",
+      "Fresh parsley, chopped",
+      "Lemon zest"
+    ],
+    "recipe": "Preheat the oven to 180°C (350°F). Season the veal shanks with salt and black pepper, then dust with flour. In a large ovenproof pot, heat the olive oil and brown the veal shanks on all sides. Remove and set aside. In the same pot, cook the onion, carrots, celery, and garlic until softened. Add the white wine and cook until it reduces by half. Stir in the canned tomatoes and beef broth. Return the veal shanks to the pot and bring to a simmer. Cover and transfer to the oven, cooking for 2 hours until the meat is tender. Serve with a sprinkle of fresh parsley and lemon zest.",
+    "image": "https://th.bing.com/th/id/R.d4fa056bc6c6d9d5c020a8f211845f9c?rik=ZaDFeOawdkPt6g&riu=http%3a%2f%2fd3lp4xedbqa8a5.cloudfront.net%2fs3%2fdigital-cougar-assets%2ffood%2f2015%2f03%2f20%2f15b165c3e00b47519016b000601cc207%2fosso-buco.jpg%3fwidth%3d1229%26height%3d768%26mode%3dcrop%26quality%3d75&ehk=%2fqNhiEa%2bZdlQo%2fwhAoLS49EUvgvDoysYXiPs%2fbQ2kg8%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "name": "Panna Cotta",
+    "ingredients": [
+      "500ml heavy cream",
+      "100g sugar",
+      "1 vanilla bean, split and scraped",
+      "4 gelatin sheets",
+      "Fresh berries",
+      "Mint leaves"
+    ],
+    "recipe": "Soak the gelatin sheets in cold water. In a saucepan, heat the heavy cream, sugar, and vanilla bean until it just begins to boil. Remove from heat and add the gelatin, stirring until dissolved. Pour the mixture into molds and refrigerate for at least 4 hours until set. Serve with fresh berries and mint leaves.",
+    "image": "https://images.pexels.com/photos/14732341/pexels-photo-14732341.jpeg"
+  },
+  {
+    "name": "Caprese Salad",
+    "ingredients": [
+      "4 ripe tomatoes",
+      "200g mozzarella cheese",
+      "Fresh basil leaves",
+      "4 tbsp extra virgin olive oil",
+      "Salt",
+      "Black pepper",
+      "Balsamic glaze (optional)"
+    ],
+    "recipe": "Slice the tomatoes and mozzarella cheese. Arrange them on a plate, alternating between tomato and mozzarella slices. Tuck fresh basil leaves between the slices. Drizzle with extra virgin olive oil and season with salt and black pepper. Add a drizzle of balsamic glaze if desired.",
+    "image": "https://images.pexels.com/photos/13241857/pexels-photo-13241857.jpeg"
+  },
+  {
+    "name": "Minestrone Soup",
+    "ingredients": [
+      "1 onion, chopped",
+      "2 carrots, chopped",
+      "2 celery stalks, chopped",
+      "2 cloves garlic, minced",
+      "1 zucchini, chopped",
+      "400g canned tomatoes",
+      "1 liter vegetable broth",
+      "1 can cannellini beans, drained",
+      "100g green beans, chopped",
+      "100g pasta (small shapes)",
+      "2 tbsp olive oil",
+      "Salt",
+      "Black pepper",
+      "Fresh basil, chopped",
+      "Parmesan cheese, grated"
+    ],
+    "recipe": "In a large pot, heat the olive oil and cook the onion, carrots, celery, and garlic until softened. Add the zucchini and cook for a few more minutes. Stir in the canned tomatoes and vegetable broth, and bring to a simmer. Add the cannellini beans, green beans, and pasta, and cook until the pasta is tender. Season with salt and black pepper. Serve with fresh basil and grated parmesan cheese.",
+    "image": "https://images.pexels.com/photos/16811678/pexels-photo-16811678/free-photo-of-minestrone-soup-with-noodles.jpeg"
+  },
+  {
+    "name": "Bruschetta",
+    "ingredients": [
+      "4 slices of bread",
+      "2 tomatoes, diced",
+      "2 cloves garlic, minced",
+      "Fresh basil leaves, chopped",
+      "2 tbsp olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "recipe": "Toast the bread slices until golden brown. In a bowl, mix the diced tomatoes, garlic, basil, olive oil, salt, and black pepper. Spoon the tomato mixture onto the toasted bread slices. Serve immediately.",
+    "image": "https://images.pexels.com/photos/4969892/pexels-photo-4969892.jpeg"
+  },
+  {
+    "name": "Gelato",
+    "ingredients": [
+      "500ml whole milk",
+      "100g sugar",
+      "3 egg yolks",
+      "1 tsp vanilla extract",
+      "150g fresh fruit (e.g., strawberries, peaches)",
+      "50g chocolate chips"
+    ],
+    "recipe": "In a saucepan, heat the milk until it just begins to boil. In a bowl, whisk the sugar and egg yolks until pale and thick. Gradually whisk in the hot milk. Return the mixture to the saucepan and cook over low heat, stirring constantly, until it thickens. Remove from heat and stir in the vanilla extract. Let it cool, then churn in an ice cream maker according to the manufacturer's instructions. Fold in the chopped fruit and chocolate chips. Freeze for at least 2 hours before serving.",
+    "image": "https://images.pexels.com/photos/5061025/pexels-photo-5061025.jpeg"
+  },
+  {
+    "name": "Amatriciana Pasta",
+    "ingredients": [
+      "400g bucatini pasta",
+      "100g guanciale or pancetta, diced",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "400g canned tomatoes",
+      "50g pecorino cheese, grated",
+      "Salt",
+      "Black pepper",
+      "Red pepper flakes"
+    ],
+    "recipe": "Cook the pasta in a large pot of salted boiling water. In a pan, cook the guanciale or pancetta until crispy. Add the onion and garlic and cook until softened. Stir in the canned tomatoes and simmer for 10 minutes. Season with salt, black pepper, and red pepper flakes. Drain the pasta and toss it with the sauce. Serve with grated pecorino cheese on top.",
+    "image": "https://th.bing.com/th/id/OIP.1lJczRHPGCZI7NjI3Tz8QgHaFj?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Cannoli",
+    "ingredients": [
+      "250g ricotta cheese",
+      "100g powdered sugar",
+      "50g chocolate chips",
+      "1 tsp vanilla extract",
+      "8 cannoli shells",
+      "50g pistachios, chopped"
+    ],
+    "recipe": "In a bowl, mix the ricotta cheese, powdered sugar, chocolate chips, and vanilla extract. Fill the cannoli shells with the mixture. Dip the ends of the cannoli in chopped pistachios. Refrigerate for at least 1 hour before serving.",
+    "image": "https://images.pexels.com/photos/7474123/pexels-photo-7474123.jpeg"
+  },
+  {
+    "name": "Pizza Margherita",
+    "ingredients": [
+      "1 pizza dough",
+      "200g tomato sauce",
+      "200g mozzarella cheese",
+      "Fresh basil leaves",
+      "2 tbsp olive oil",
+      "Salt"
+    ],
+    "recipe": "Preheat the oven to 220°C (430°F). Roll out the pizza dough on a floured surface. Spread the tomato sauce evenly over the dough. Tear the mozzarella cheese and scatter it over the pizza. Drizzle with olive oil and season with a pinch of salt. Bake in the oven for 10-15 minutes until the crust is golden and the cheese is bubbly. Top with fresh basil leaves before serving.",
+    "image": "https://images.pexels.com/photos/6940997/pexels-photo-6940997.jpeg"
+  },
+  {
+    "name": "Ossobuco alla Milanese",
+    "ingredients": [
+      "4 veal shanks",
+      "1 onion, chopped",
+      "2 carrots, chopped",
+      "2 celery stalks, chopped",
+      "2 cloves garlic, minced",
+      "400g canned tomatoes",
+      "200ml white wine",
+      "500ml beef broth",
+      "2 tbsp olive oil",
+      "1 tbsp flour",
+      "Salt",
+      "Black pepper",
+      "Fresh parsley, chopped",
+      "Lemon zest"
+    ],
+    "recipe": "Preheat the oven to 180°C (350°F). Season the veal shanks with salt and black pepper, then dust with flour. In a large ovenproof pot, heat the olive oil and brown the veal shanks on all sides. Remove and set aside. In the same pot, cook the onion, carrots, celery, and garlic until softened. Add the white wine and cook until it reduces by half. Stir in the canned tomatoes and beef broth. Return the veal shanks to the pot and bring to a simmer. Cover and transfer to the oven, cooking for 2 hours until the meat is tender. Serve with a sprinkle of fresh parsley and lemon zest.",
+    "image": "https://th.bing.com/th/id/R.d49f381706ce95d3347f4d2743ca6995?rik=Ui4h2lTjP1N3Wg&pid=ImgRaw&r=0"
+  },
+  {
+    "name": "Saltimbocca alla Romana",
+    "ingredients": [
+      "4 veal cutlets",
+      "8 slices prosciutto",
+      "8 sage leaves",
+      "50g butter",
+      "100ml white wine",
+      "Salt",
+      "Black pepper"
+    ],
+    "recipe": "Season the veal cutlets with salt and black pepper. Place a slice of prosciutto and a sage leaf on each cutlet. Heat the butter in a pan and cook the veal cutlets until browned on both sides. Remove the veal from the pan and set aside. Deglaze the pan with white wine, scraping up any browned bits. Return the veal to the pan and simmer until the sauce thickens slightly. Serve hot.",
+    "image": "https://www.iltarantino.it/wp-content/uploads/2020/01/Saltimbocca-alla-Romana.jpg"
+  },
+  {
+    "name": "Ravioli",
+    "ingredients": [
+      "300g flour",
+      "3 eggs",
+      "200g ricotta cheese",
+      "100g spinach, cooked and chopped",
+      "50g parmesan cheese, grated",
+      "Nutmeg",
+      "Salt",
+      "Black pepper"
+    ],
+    "recipe": "Make a dough with the flour, eggs, and a pinch of salt. Roll out the dough and cut it into squares. Mix the ricotta cheese, spinach, parmesan cheese, and nutmeg. Place a spoonful of the filling in the center of each square. Fold the dough over the filling to form a triangle and press the edges to seal. Cook the ravioli in a large pot of boiling salted water for 2-3 minutes. Serve with your favorite sauce.",
+    "image": "https://images.pexels.com/photos/6605646/pexels-photo-6605646.jpeg"
+  }
+]

@@ -1,0 +1,23 @@
+.italian-hide {
+  display: none;
+}
+
+.italian-list {
+  width: 100vw;
+  min-height: 100vh;
+  background: #f39f5a;
+  position: relative;
+  padding-top: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.all-recipes {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3em;
+}
